@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **Co founder of Cripto Simple**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python** & **React**
 
 - 💬 Ask me about **Cryptos ♥**
 
