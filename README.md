@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ch4rbo" target="blank"><img src="https://img.shields.io/twitter/follow/ch4rbo?logo=twitter&style=for-the-badge" alt="ch4rbo" /></a> </p>
 
-- ⚡ Fun fact **Co founder of Cripto Simple**
+- ⚡ **Co founder of Cripto Simple**
 
 - 🌱 I’m currently learning **Python** & **React**
 
