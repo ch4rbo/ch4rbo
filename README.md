@@ -1,2 +1,2 @@
-<h1 align="center">Hi 👋, I'm charbo </h1>
-<h3 align="center">A Full Stack Developer & Data scientist from Uruguay</h3>
+<h1 align="center">hi 👋, i'm charbo </h1>
+<h3 align="center">a full stack developer & data scientist</h3>
